@@ -1,7 +1,7 @@
-# AI Search Algorithms Portfolio
+# AI Search Algorithms Portfolio #
 
 **Author:** Zoë Finelli  
-**Course:** A.B. Cognitive Science - ARTI4500
+**Course:** A.B. Cognitive Science - ARTI4500  
 **Date:** 01 April 2025
 ---
 
