@@ -2,10 +2,11 @@
 
 **Author:** Zoë Finelli  
 **Course:** A.B. Cognitive Science - ARTI4500  
-**Date:** 01 April 2025
+**Date:** 19 April 2025
+
 ---
 
-## Overview
+#AI Search Algorithms Portfolio
 
 This repository contains implementations of fundamental search algorithms used in Artificial Intelligence. These scripts demonstrate how agents navigate state spaces, solve constraint satisfaction problems, and make optimal decisions in adversarial environments.
 
